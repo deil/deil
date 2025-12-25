@@ -6,6 +6,7 @@ Just keeping track of what I'm using and how it evolves over time.
 
 ### Highlights
 - **AI-assisted programming**: So many cool tools! 🤯 There are MANY tools out there and I'm trying a lot of them. It brings me so much joy and enables me to build much crazier projects.
+- **Windows 11** doesn't boot anymore. Not even trying to recover it. Goodbye. 👋
 - Adopting **mise** because it just makes version management way easier.
 - Discovered **TUI AI agents** (and tools like **lazygit**) and honestly? I'm liking them more and more.
 - Even though **Spring Boot 4** and **Java 25** are out, I've got too much legacy code stuck on **Spring Boot 2.7**. Still grinding through that migration. ☕️
@@ -49,3 +50,7 @@ Just keeping track of what I'm using and how it evolves over time.
 ### Dev Tools
 - **[SDKMAN!](https://sdkman.io/)**: Managed my Java versions.
 - **[nvm](https://github.com/nvm-sh/nvm)**: Managed Node.js.
+
+### OS
+- **Windows 11**
+- **Ubuntu**
