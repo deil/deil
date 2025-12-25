@@ -15,9 +15,8 @@ Just keeping track of what I'm using and how it evolves over time.
 - Realized that **TypeScript** isn't just about interfaces and classes – it's about the *shapes* of objects. That's a very different concept and it's freaking cool. (Thanks to [Matt Pocock](https://x.com/mattpocockuk)!)
 
 ### Backend
-- **Languages**: Java 21, Kotlin
-- **Framework**: Spring Boot 2.7 (stuck here for now)
-- **Tools**: [JSpecify](https://jspecify.dev/)
+- Java 21 & Kotlin with Spring Boot 2.7 (legacy constraint).
+- [JSpecify](https://jspecify.dev/): https://www.youtube.com/watch?v=5Lbxq6LP7FY
 - **AI**: While there is Spring AI, I decided to give [Koog](https://docs.koog.ai/) a try. Built only a few simple agents, haven't formed my opinion yet.
 
 ### Frontend
