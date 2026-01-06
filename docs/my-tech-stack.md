@@ -11,11 +11,11 @@ Just keeping track of what I'm using and how it evolves over time.
 - Discovered **TUI AI agents** (and tools like **lazygit**) and honestly? I'm liking them more and more.
 - Even though **Spring Boot 4** and **Java 25** are out, I've got too much legacy code stuck on **Spring Boot 2.7**. Still grinding through that migration. ☕️
 - Going full **Kotlin** for most new JVM code. It's such a breath of fresh air.
-- Finally managed to migrate most of my Angular codebases from 13 to 18+! Signals, standalone components, and lots more. ❤️
+- Finally managed to migrate most of my Angular codebases from 13 to 20+! Signals, standalone components, and lots more. ❤️
 - Realized that **TypeScript** isn't just about interfaces and classes – it's about the *shapes* of objects. That's a very different concept and it's freaking cool. (Thanks to [Matt Pocock](https://x.com/mattpocockuk)!)
 
 ### Backend
-- Java 21 & Kotlin with Spring Boot 2.7 (legacy constraint).
+- Java 21 & Kotlin with Spring Boot 2.7.
 - [JSpecify](https://jspecify.dev/): https://www.youtube.com/watch?v=5Lbxq6LP7FY
 - **AI**: While there is Spring AI, I decided to give [Koog](https://docs.koog.ai/) a try. Built only a few simple agents, haven't formed my opinion yet.
 
